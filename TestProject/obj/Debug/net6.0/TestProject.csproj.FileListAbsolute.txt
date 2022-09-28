@@ -1,0 +1,15 @@
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+D:\cmp\bootcamp\TestProject\bin\Debug\net6.0\TestProject.exe
+D:\cmp\bootcamp\TestProject\bin\Debug\net6.0\TestProject.deps.json
+D:\cmp\bootcamp\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+D:\cmp\bootcamp\TestProject\bin\Debug\net6.0\TestProject.dll
+D:\cmp\bootcamp\TestProject\bin\Debug\net6.0\TestProject.pdb
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.dll
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.pdb
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+D:\cmp\bootcamp\TestProject\obj\Debug\net6.0\ref\TestProject.dll
